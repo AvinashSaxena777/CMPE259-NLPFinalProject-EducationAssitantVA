@@ -1,0 +1,12 @@
+langchain_community
+langchain_together
+smolagents
+gradio
+chromadb
+duckduckgo_search
+sentence-transformers
+markdownify
+requests
+langchain-huggingface
+ollama
+smolagents[litellm]
